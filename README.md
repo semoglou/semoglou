@@ -29,4 +29,4 @@ I am an Applied Mathematics graduate from Greece
 
 - 🌱 Technical Content Writing
 - ⚡ In my free time, I explore mathematical modeling on new technologies and solve problems on Data Structures and Algorithms.
-- :mailbox:How to reach me:
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
