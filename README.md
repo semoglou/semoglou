@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am an Applied Mathematics graduate from Greece ( [NKUA - Departmemt of Mathematics](https://en.math.uoa.gr/) )
+I am an Applied Mathematics graduate from Greece ( [NKUA - Department of Mathematics](https://en.math.uoa.gr/) )
 
 
 
