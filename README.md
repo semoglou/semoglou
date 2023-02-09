@@ -26,7 +26,8 @@ I am an Applied Mathematics graduate from Greece ( [NKUA - Departmemt of Mathema
 
 
 
-- 🌱 Technical Content Writing
+- :man_student: I'm most interested in the fields of Mathematical Modeling, Financial Engineering and Artificial Intelligence
+- 🌱 I'm currently learning Machine Learning Software Engineering
 - ⚡ In my free time, I explore mathematical modeling on new technologies and solve problems on Data Structures and Algorithms
 - :mailbox: semoglouangelos@gmail.com
 
