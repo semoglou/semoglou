@@ -31,7 +31,7 @@ I am an Applied Mathematics graduate from Greece ( [NKUA - Department of Mathema
 - ⚡ In my free time, I explore mathematical modeling on new technologies and solve problems on Data Structures and Algorithms
 - :mailbox: semoglouangelos@gmail.com
 
-- :hammer_and_wrench: Languages and Tools :
+- :hammer_and_wrench: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
