@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/aggelos_semoglou/">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-facebook-URL">
+  <a href="https://github.com/semoglou">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
