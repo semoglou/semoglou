@@ -26,8 +26,8 @@ I am an Applied Mathematics graduate from Greece ([NKUA - Department of Mathemat
 
 
 
-- :man_student: I'm most interested in the fields of Mathematical Modeling, Financial Engineering and Artificial Intelligence
-- 🌱 I'm currently learning Machine Learning 
+- :man_student: I'm most interested in the fields of Data Science, Machine Learning and Mathematical Modeling 
+- 🌱 I'm currently focused on learning Machine Learning
 - ⚡ In my free time, I explore mathematical modeling on new technologies and solve problems on Data Structures and Algorithms
 - :mailbox: semoglouangelos@gmail.com
 
