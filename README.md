@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-### :man_technologist: About Me 
+### About Me 
 - :man_student: I am an ML Engineer with a BSc in Applied Mathematics and an MSc in Business Mathematics.
 - ⚡ In my free time, I explore mathematical modeling applications in emerging technologies and address complex challenges in Data Structures and Algorithms.
 - 📊 My professional focus is on Data Science, Machine Learning, and Mathematical Modeling, which I leverage to enhance business decision-making and operational efficiency.
