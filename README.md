@@ -11,11 +11,10 @@
 
 I’m Angelos Semoglou, an ML Engineer with a BSc in Applied Mathematics and an MSc in Business Mathematics.
 
-- :man_student: About me
 - 🌱 Currently, I am actively deepening my knowledge and practical skills in Machine Learning through continuous education and project work.
 - ⚡ In my spare time, I explore mathematical modeling applications in emerging technologies and address complex challenges in Data Structures and Algorithms.
 - 📊 My professional focus is on Data Science, Machine Learning, and Mathematical Modeling, which I leverage to enhance business decision-making and operational efficiency.
-- 🔬 I am dedicated to integrating sophisticated mathematical models with advanced machine learning techniques to foster technological innovation.
+- 🔬 I actively work on integrating sophisticated mathematical models with advanced machine learning techniques to aid in the development of innovative solutions.
 
 ### Technologies and Tools
 - :hammer_and_wrench: 
@@ -26,6 +25,6 @@ I’m Angelos Semoglou, an ML Engineer with a BSc in Applied Mathematics and an 
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
 
 ### Let's Connect
-- 📫 **Email**: [semoglouangelos@gmail.com](mailto:semoglouangelos@gmail.com)
+- 📫 **Email**: [semoglouangelos@gmail.com](mailto:a.semoglou@outlook.com)
 
 </div>
