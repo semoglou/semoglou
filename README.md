@@ -29,3 +29,8 @@ I’m Angelos Semoglou, an ML Engineer with a BSc in Applied Mathematics and an 
 - 📫 **Email**: [semoglouangelos@gmail.com](mailto:a.semoglou@outlook.com)
 
 </div>
+
+<footer>
+  <hr>
+  <p align="center">© 2024 Angelos Semoglou | Last Updated: October 2024</p>
+</footer>
