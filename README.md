@@ -26,7 +26,7 @@ I’m Angelos Semoglou, an ML Engineer with a BSc in Applied Mathematics and an 
 
 
 ### Let's Connect
-- 📫 **Email**: [semoglouangelos@gmail.com](mailto:a.semoglou@outlook.com)
+- 📫 **Email**: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
 
 </div>
 
