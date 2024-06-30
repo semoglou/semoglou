@@ -9,9 +9,9 @@
 
 ### About Me 
 - :man_student: I am an ML Engineer with a BSc in Applied Mathematics and an MSc in Business Mathematics.
-- ⚡ In my free time, I explore mathematical modeling applications in emerging technologies and address complex challenges in Data Structures and Algorithms.
 - 📊 My professional focus is on Data Science, Machine Learning, and Mathematical Modeling, which I leverage to enhance business decision-making and operational efficiency.
 - 🔬 I actively work on integrating sophisticated mathematical models with advanced machine learning techniques to aid in the development of innovative solutions.
+- ⚡ In my free time, I explore mathematical modeling applications in emerging technologies and address complex challenges in Data Structures and Algorithms.
 
 ***
 
