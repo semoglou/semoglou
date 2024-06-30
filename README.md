@@ -14,22 +14,11 @@
 - 🔬 I actively work on integrating sophisticated mathematical models with advanced machine learning techniques to aid in the development of innovative solutions.
 
 ### Technologies and Tools
-document.addEventListener('DOMContentLoaded', function() {
-    // Selects specific images by their source URLs
-    var imgs = document.querySelectorAll(
-        'img[src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"],' +
-        'img[src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"],' +
-        'img[src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"],' +
-        'img[src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"],' +
-        'img[src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"]'
-    );
-    imgs.forEach(function(img) {
-        img.addEventListener('click', function(event) {
-            event.preventDefault(); // Prevents the link from navigating
-            return false; // Stops the link action
-        });
-    });
-});
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab logo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python logo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R logo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL logo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex logo" width="40" height="40"/>
 
 ### Let's Connect
 - 📫 **Email**: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
