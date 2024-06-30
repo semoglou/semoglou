@@ -3,14 +3,12 @@
 </div>
 
 <h1>
-  <div align="center">Hey there!
+  <div align="center"> Welcome! I'm Angelos Semoglou.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
 ### :man_technologist: About Me 
-
-I’m Angelos Semoglou, an ML Engineer with a BSc in Applied Mathematics and an MSc in Business Mathematics.
-
+- :man_student: I am an ML Engineer with a BSc in Applied Mathematics and an MSc in Business Mathematics.
 - 🌱 Currently, I am actively deepening my knowledge and practical skills in Machine Learning and Mathematical Modeling through continuous education and project work.
 - ⚡ In my spare time, I explore mathematical modeling applications in emerging technologies and address complex challenges in Data Structures and Algorithms.
 - 📊 My professional focus is on Data Science, Machine Learning, and Mathematical Modeling, which I leverage to enhance business decision-making and operational efficiency.
