@@ -17,7 +17,7 @@
 
 <div align="center">
     <h3>Technologies and Tools</h3>
-    <hr>
+    <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="50" width="160" style="margin-right: 2px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" height="50" width="160" style="margin-right: 2px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" height="50" width="160" style="margin-right: 2px;"/>
