@@ -18,6 +18,9 @@
 ### Technologies and Tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFD43B" height="35" width="90"/> <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white" height="35" width="90"/> <img src="https://img.shields.io/badge/MySQL-3776AB?style=flat-square&logo=MySQL&logoColor=FFD43B" height="35" width="100"/>
 
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" alt="Python" height="35" width="90"/>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/r.svg" alt="R" height="35" width="90"/>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/mysql.svg" alt="MySQL" height="35" width="90"/>
 
 ***
 
