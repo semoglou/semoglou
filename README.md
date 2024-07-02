@@ -15,7 +15,7 @@
 
 ***
 
-### Technologies and Tools  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" style="height: 50px; width: 160px; margin-right: 5px; display: inline-block; vertical-align: top;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" style="height: 50px; width: 160px; margin-right: 5px; display: inline-block; vertical-align: top;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" style="height: 50px; width: 160px; margin-right: 5px; display: inline-block; vertical-align: top;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" style="height: 50px; width: 160px; display: inline-block; vertical-align: top;">
+### Technologies and Tools  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="50" width="160"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" height="50" width="160"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" height="50" width="160"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="50" width="160"/>
 
 
 ***
