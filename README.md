@@ -18,10 +18,12 @@
 ### Technologies and Tools
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=yellow"/></a>
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=yellow&labelColor=black)
+<img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="30" width="100"/>
+<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white" height="30" width="100"/>
+<img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=yellow&labelColor=black" height="30" width="100"/>
+
 
 
 ***
