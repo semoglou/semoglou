@@ -16,7 +16,7 @@
 ***
 
 ### Technologies and Tools
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="30" width="100"/> <img src="https://img.shields.io/badge/R-white?style=flat-square&logo=R&logoColor=276DC3&color=276DC3" height="30" width="80"/> <img src="https://img.shields.io/badge/Mysql-FFDD00?style=flat-square&logo=MySQL&logoColor=black" height="30" width="100"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="30" width="100"/> <img src="https://img.shields.io/badge/R-FFFFFF?style=flat-square&logo=R&logoColor=276DC3&labelColor=FFFFFF&color=276DC3" height="30" width="80"/>  <img src="https://img.shields.io/badge/Mysql-FFDD00?style=flat-square&logo=MySQL&logoColor=black" height="30" width="100"/>
 
 ***
 
