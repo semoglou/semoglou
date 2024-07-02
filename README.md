@@ -19,9 +19,10 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=yellow"/></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R logo" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab logo" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL logo" width="40" height="40"/>&nbsp;
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=yellow&labelColor=black)
+
 
 ***
 
