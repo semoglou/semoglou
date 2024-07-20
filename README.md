@@ -20,7 +20,7 @@
 - **Online Retail Analysis & Customer Segmentation** <br> [View Repository](https://github.com/semoglou/Machine-Learning-Customer-Segmentation) \
   This project applies machine learning algorithms to segment customers based on purchasing behaviors. It includes NLP-driven product categorization and utilizes association rules mining to discover patterns within the data.
 
-- **Retail Store Sales Forecasting**  [View Repository](https://github.com/semoglou/Retail-Store-Sales-Forecasting) \
+- **Retail Store Sales Forecasting** <br> [View Repository](https://github.com/semoglou/Retail-Store-Sales-Forecasting) \
  During my internship as a Machine Learning Engineer, I worked on forecasting retail sales using advanced machine learning techniques. The project involved developing and comparing various models like XGBoost and LightGBM to predict sales, ultimately enhancing strategic decision-making for retail operations. 
 
 ***
