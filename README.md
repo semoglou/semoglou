@@ -17,7 +17,7 @@
 
 ### My Latest Projects
 
-- **Online Retail Analysis & Customer Segmentation** <br> [View Repository](https://github.com/semoglou/Machine-Learning-Customer-Segmentation) \
+- **E-Shop Analysis & Customer Segmentation** <br> [View Repository](https://github.com/semoglou/Machine-Learning-Customer-Segmentation) \
   This project applies machine learning algorithms to segment customers based on purchasing behaviors. It includes NLP-driven product categorization and utilizes association rules mining to discover patterns within the data.
 
 - **Retail Store Sales Forecasting** <br> [View Repository](https://github.com/semoglou/Retail-Store-Sales-Forecasting) \
