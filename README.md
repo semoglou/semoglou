@@ -24,16 +24,6 @@
  During my internship as a Machine Learning Engineer, I worked on forecasting retail sales using advanced machine learning techniques. The project involved developing and comparing various models like XGBoost and LightGBM to predict sales, ultimately enhancing strategic decision-making for retail operations. 
 
 ***
-<div align="center">
-    <h3>Technologies and Tools</h3>
-    <br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="50" width="160" style="margin-right: 2px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" height="50" width="160" style="margin-right: 2px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" title="MATLAB" height="50" width="160" style="margin-right: 2px;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="50" width="160"/>
-</div>
-
-***
 
 ### Let's Connect
 - 📫 **Email**: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
