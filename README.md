@@ -32,5 +32,5 @@
 
 <footer>
   <hr>
-  <p align="center">© 2024 Angelos Semoglou | Last Updated: July 2024</p>
+  <p align="center">© 2024 Angelos Semoglou | Last Updated: August 2024</p>
 </footer>
