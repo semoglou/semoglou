@@ -25,7 +25,7 @@
 
 - #### Retail Store Sales Forecasting - [View Repository](https://github.com/semoglou/Retail-Store-Sales-Forecasting)
   - **Data Preparation**: Engineered features like categorical variables and lagged sales values.
-  - **Advanced Models**: Implemented various models like *Random Forest*, *Gradient Boost*, *XGBoost*, *CatBoost*, *Elastic Net*, and *K-Nearest Neighbors*.
+  - **Advanced Models**: Implemented various models like *Random Forest*, *LightGBM*, *XGBoost*, *CatBoost*, *Gradient Boost*.
   - **Iterative Forecasting**: Used predicted lags in an iterative process to enhance real-time accuracy.
 
 ***
