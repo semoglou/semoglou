@@ -24,7 +24,9 @@
   - **Network Graph Creation and Analysis**: Constructed detailed product relationship network graphs and employed algorithms like *PageRank* and *A** to enhance recommendation systems.
 
 - #### Retail Store Sales Forecasting - [View Repository](https://github.com/semoglou/Retail-Store-Sales-Forecasting)
- During my internship as a Machine Learning Engineer, I worked on forecasting retail sales using advanced machine learning techniques. The project involved developing and comparing various models like XGBoost and LightGBM to predict sales, ultimately enhancing strategic decision-making for retail operations. 
+  - **Data Preparation**: Engineered features like categorical variables and lagged sales values.
+  - **Advanced Models**: Implemented various models like *Random Forest*, *Gradient Boost*, *XGBoost*, *CatBoost*, *Elastic Net*, and *K-Nearest Neighbors*.
+  - **Iterative Forecasting**: Used predicted lags in an iterative process to enhance real-time accuracy.
 
 ***
 
