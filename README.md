@@ -18,7 +18,7 @@
 ### My Latest Projects
 
 - #### Online Retail Analysis & Customer Segmentation
-  [View Repository](https://github.com/semoglou/Machine-Learning-Customer-Segmentation) \
+  [View Repository](https://github.com/semoglou/Machine-Learning-Customer-Segmentation)
   - **Data Cleansing**: Applied advanced methods to ensure data quality and integrity.
   - **Customer Segmentation**: Implemented algorithms such as *K-Means* and *Hierarchical Clustering*.
   - **Product Categorization**: Utilized *NLP* and *text analytics* techniques.
