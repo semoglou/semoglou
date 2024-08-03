@@ -32,7 +32,7 @@
 ***
 
 ### Let's Connect
-- 📫 **Email**: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
+- #### 📫Email: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
 
 </div>
 
