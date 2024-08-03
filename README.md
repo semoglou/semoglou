@@ -23,7 +23,7 @@
   - **Customer Segmentation**: Implemented algorithms such as *K-Means* and *Hierarchical Clustering*.
   - **Product Categorization**: Utilized *NLP* and *Text Analytics* techniques.
   - **Association Rules Mining**: Leveraged *FP-Growth* algorithm to uncover purchasing patterns.
-  - **Network Graph Creation and Analysis**: Constructed detailed product relationship network graphs and employed algorithms like *PageRank* and *A*** to enhance recommendation systems.
+  - **Network Graph Creation and Analysis**: Constructed detailed product relationship network graphs and employed algorithms like *PageRank* and *A** to enhance recommendation systems.
 
 
 - **Retail Store Sales Forecasting** <br> [View Repository](https://github.com/semoglou/Retail-Store-Sales-Forecasting) \
