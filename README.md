@@ -21,8 +21,8 @@
   [View Repository](https://github.com/semoglou/Machine-Learning-Customer-Segmentation)
   - **Data Cleansing**: Applied advanced methods to ensure data quality and integrity.
   - **Customer Segmentation**: Implemented algorithms such as *K-Means* and *Hierarchical Clustering*.
-  - **Product Categorization**: Utilized *NLP* and *text analytics* techniques.
-  - **Association Rules Mining**: Leveraged the *FP-Growth* algorithm to uncover purchasing patterns.
+  - **Product Categorization**: Utilized *NLP* and *Text Analytics* techniques.
+  - **Association Rules Mining**: Leveraged *FP-Growth* algorithm to uncover purchasing patterns.
   - **Network Graph Creation and Analysis**: Constructed detailed product relationship network graphs and employed algorithms like *PageRank* and *A*** to enhance recommendation systems.
 
 
