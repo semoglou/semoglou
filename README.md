@@ -5,8 +5,7 @@
 - 🎓 **Education & Background**  
   I am an ML Engineer with a BSc in Applied Mathematics and an MSc in Business Mathematics.
 - 💻 **Professional Focus**  
-   I specialize in Data Science, Machine Learning, and Mathematical Modeling.  
-   I leverage these skills to enhance business decision-making, improve operational efficiency and develop innovative solutions.
+   I specialize in Data Science, Machine Learning, and Mathematical Modeling. I leverage these skills to enhance business decision-making, improve operational efficiency and develop innovative solutions.
 - 🔬 **Research Interests**  
    In my free time, I explore applications of Machine Learning and Mathematical Modeling, and solve problems in Data Structures and Algorithms.
   
