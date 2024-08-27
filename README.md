@@ -13,7 +13,7 @@
 
 ### My Latest Projects
 
-- #### [Online Retail Analysis & Customer Segmentation](https://github.com/semoglou/Machine-Learning-Customer-Segmentation)
+- #### [Machine Learning for Online Retail Analytics & Customer Segmentation](https://github.com/semoglou/Machine-Learning-Customer-Segmentation)
   - **Product Categorization**: Utilized *NLP* and *Text Analytics* techniques.
   - **Customer Segmentation**: Implemented algorithms such as *K-Means* and *Hierarchical Clustering*.
   - **Association Rules Mining**: Leveraged *FP-Growth* algorithm to uncover purchasing patterns.
