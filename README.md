@@ -9,13 +9,8 @@ I'm a **Ph.D. Candidate in Machine Learning**, specializing in **Pattern Recogni
 ### Latest Projects
 
 - #### [Machine Learning for Online Retail Analytics & Customer Segmentation](https://github.com/semoglou/Machine-Learning-Customer-Segmentation)
-  - **Product Categorization**: Utilized *NLP* and *Text Analytics* techniques.
-  - **Customer Segmentation**: Implemented algorithms such as *K-Means* and *Hierarchical Clustering*.
-  - **Association Rules Mining**: Leveraged *FP-Growth* algorithm to uncover purchasing patterns.
-  - **Network Graph Creation and Analysis**: Constructed detailed product relationship network graphs and employed algorithms like *PageRank* and *A** to enhance recommendation systems.
+Developed advanced models for **product categorization** using **NLP** and **Text Analytics**, implemented **K-Means** and **Hierarchical Clustering** for customer segmentation, and applied the **FP-Growth** algorithm to identify purchasing patterns. Created **product relationship network graphs** and enhanced recommendation systems with algorithms such as **PageRank** and **A***.
 
 - #### [Retail Store Sales Forecasting](https://github.com/semoglou/Retail-Store-Sales-Forecasting)
-  - **Data Preparation**: Engineered features like categorical variables and lagged sales values.
-  - **Models**: Implemented various models like *Random Forest*, *LightGBM*, *XGBoost*, *Gradient Boost*.
-  - **Iterative Forecasting**: Used predicted lags in an iterative process to enhance real-time accuracy.
+Engineered key features such as **categorical variables** and **lagged sales values** for time-series analysis. Implemented predictive models including **Random Forest**, **LightGBM**, **XGBoost**, and **Gradient Boosting**, and enhanced sales forecasting accuracy using **iterative techniques** for real-time prediction refinement.
 
