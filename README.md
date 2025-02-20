@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, and welcome!
 
-I'm a **Ph.D. Candidate in Machine Learning**, specializing in **Pattern Recognition and Unsupervised Learning**. With a background in Applied & Business Mathematics (BSc, MSc) and hands-on experience as a Machine Learning Engineer.
+I'm a **Ph.D. Candidate in Machine Learning**, specializing in **Pattern Recognition and Unsupervised Learning**. With a background in Applied & Business Mathematics (BSc, MSc) and hands-on experience as an ML Engineer.
   
 ***
 
