@@ -6,7 +6,7 @@ I'm a **Ph.D. Candidate in Machine Learning**, specializing in **Pattern Recogni
 
 ***
 
-### My Latest Projects
+### Latest Projects
 
 - #### [Machine Learning for Online Retail Analytics & Customer Segmentation](https://github.com/semoglou/Machine-Learning-Customer-Segmentation)
   - **Product Categorization**: Utilized *NLP* and *Text Analytics* techniques.
