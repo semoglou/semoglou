@@ -2,7 +2,7 @@
 
 I'm a **Ph.D. Candidate in Machine Learning**, specializing in **Pattern Recognition and Unsupervised Learning**. With a background in Applied & Business Mathematics (BSc, MSc) and hands-on experience as an ML Engineer.
 
-#### ✉️ [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
+#### ✉️ Email: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
 
 ***
 
