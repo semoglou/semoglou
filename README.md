@@ -29,9 +29,3 @@
 ### Let's Connect
 - #### 📫Email: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
 
-</div>
-
-<footer>
-  <hr>
-  <p align="center">© 2024 Angelos Semoglou | Last Updated: November 2024</p>
-</footer>
