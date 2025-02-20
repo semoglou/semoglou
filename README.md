@@ -4,7 +4,7 @@ I'm a **Ph.D. Candidate in Machine Learning**, specializing in Pattern Recogniti
 
 #### ✉️ Email: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
 
-<div style="border: 2px solid #ccc; padding: 15px; background-color: #f9f9f9; border-radius: 8px;">
+---
 
 ### Latest Projects
 
