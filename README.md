@@ -1,7 +1,9 @@
 ## 👋🏻 Hi, and welcome!
 
 I'm a **Ph.D. Candidate in Machine Learning**, specializing in **Pattern Recognition and Unsupervised Learning**. With a background in Applied & Business Mathematics (BSc, MSc) and hands-on experience as an ML Engineer.
-  
+
+#### 📫Email: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
+
 ***
 
 ### My Latest Projects
@@ -16,9 +18,4 @@ I'm a **Ph.D. Candidate in Machine Learning**, specializing in **Pattern Recogni
   - **Data Preparation**: Engineered features like categorical variables and lagged sales values.
   - **Models**: Implemented various models like *Random Forest*, *LightGBM*, *XGBoost*, *Gradient Boost*.
   - **Iterative Forecasting**: Used predicted lags in an iterative process to enhance real-time accuracy.
-
-***
-
-### Let's Connect
-- #### 📫Email: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
 
