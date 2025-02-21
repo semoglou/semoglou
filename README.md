@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, and welcome!
 
-I'm a **Ph.D. Candidate in Machine Learning**, specializing in Pattern Recognition and Unsupervised Learning, with a background in Applied & Business Mathematics (BSc, MSc) and hands-on experience as an ML Engineer.
+I'm a **Ph.D. Candidate in Machine Learning**, focusing on Pattern Recognition and Unsupervised Learning. With a solid foundation in Applied & Business Mathematics (BSc, MSc) and hands-on experience as an ML Engineer, I am committed to developing innovative machine learning solutions that bridge theory and practical applications, aiming to tackle real-world challenges in diverse fields.
 
 #### ✉️ Email: [a.semoglou@outlook.com](mailto:a.semoglou@outlook.com)
 
