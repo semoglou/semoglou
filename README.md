@@ -10,5 +10,4 @@ I'm a **Ph.D. Candidate in Machine Learning**, specializing in Pattern Recogniti
 Applied text analytics for product categorization, implemented clustering for customer segmentation, used *FP-Growth* for purchasing pattern analysis, and enhanced product recommendations with network graphs, PageRank, and A*.
 
 - #### [Retail Store Sales Forecasting](https://github.com/semoglou/Retail-Store-Sales-Forecasting)
-Engineered key features for time-series analysis, including categorical variables and lagged sales. Built predictive models and improved sales forecasting through iterative real-time updates.
 
