@@ -16,3 +16,6 @@ I'm a **Ph.D. Candidate in Machine Learning**, specializing in Pattern Recogniti
 <div align="center">
   ##### 📦 Packages on PyPI
 </div>
+<div align="center">
+  <a href="https://pypi.org/user/a.semoglou/" style="text-decoration: none; font-weight: 600;">📦 Packages on PyPI</a>
+</div>
