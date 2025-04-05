@@ -5,7 +5,8 @@ I'm a **Ph.D. Candidate in Machine Learning**, specializing in Pattern Recogniti
 #
 
 ### Latest Work
-- ### [Composite Silhouette Score](https://github.com/semoglou/composite_silhouette)
+- #### [Composite Silhouette Score](https://github.com/semoglou/composite_silhouette)
+  
 - #### [Machine Learning for Online Retail Analytics & Customer Segmentation](https://github.com/semoglou/Machine-Learning-Customer-Segmentation)
 - #### [Retail Store Sales Forecasting](https://github.com/semoglou/Retail-Store-Sales-Forecasting)
 
