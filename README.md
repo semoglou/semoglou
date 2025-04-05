@@ -13,8 +13,4 @@ I'm a **Ph.D. Candidate in Machine Learning**, specializing in Pattern Recogniti
 - #### [Retail Store Sales Forecasting](https://github.com/semoglou/Retail-Store-Sales-Forecasting)
 
 
-📦 Packages on [PyPI](https://pypi.org/user/a.semoglou/)
-
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 6px; background-color: #f9f9f9;">
-📦 <a href="https://pypi.org/user/a.semoglou/">Packages on PyPI</a>
-</div>
+##### 📦 Packages on [PyPI](https://pypi.org/user/a.semoglou/)
