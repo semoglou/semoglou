@@ -5,7 +5,7 @@ I'm a **Ph.D. Candidate in Machine Learning**, specializing in Pattern Recogniti
 #
 
 ### 💻 Latest Work
-- #### [K-Sil Clustering Algorithm](https://github.com/semoglou/ksil)  
+- #### [K-Sil Clustering Algorithm](https://github.com/semoglou/ksil_clustering)  
   A silhouette-guided instance-weighted centroid-based algorithm that integrates silhouette scores into the clustering process to improve clustering quality.
 - #### [Composite Silhouette Score](https://github.com/semoglou/composil)
   A clustering evaluation metric that combines micro- and macro-averaged silhouette scores using statistical weighting for more reliable quality assessment. 
