@@ -6,7 +6,7 @@ My research focuses on **clustering methods, validation, and confidence estimati
 
 ---
 
-## 🔬 Research & publications
+## 🔬 Research
 
 - **CAKE: Confidence in Assignments via K-partition Ensembles**   
   [**Paper**](https://doi.org/10.1016/j.mlwa.2026.100915) · [**arXiv**](https://arxiv.org/abs/2602.18435) · [**Code**](https://github.com/semoglou/cake) · [**PyPI**](https://pypi.org/project/cake-ensemble/)
