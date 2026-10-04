@@ -11,7 +11,7 @@ My research focuses on **clustering methods, validation, and confidence estimati
 - **CAKE: Confidence in Assignments via K-partition Ensembles**   
   [**Paper**](https://doi.org/10.1016/j.mlwa.2026.100915) · [**arXiv**](https://arxiv.org/abs/2602.18435) · [**Code**](https://github.com/semoglou/cake) · [**PyPI**](https://pypi.org/project/cake-ensemble/)
 
-- **Composite Silhouette**   
+- **Composite Silhouette: A Subsampling-based Aggregation Strategy**   
   [**Paper**](https://doi.org/10.1007/978-3-032-37654-1_38) · [**arXiv**](https://arxiv.org/abs/2604.13816) · [**Code**](https://github.com/semoglou/compsil) · [**PyPI**](https://pypi.org/project/compsil/)
 
 - **K-Sil: Silhouette-Driven Instance-Weighted *k*-means**   
