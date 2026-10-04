@@ -27,5 +27,6 @@ My research focuses on **clustering methods, validation, and confidence estimati
 
 ## 🌐 More
 
-For publications, research, software, NLP work, and other projects:  
-[**semoglou.github.io**](https://semoglou.github.io)
+For publications, research, software, NLP work, and other projects:
+
+**[semoglou.github.io](https://semoglou.github.io)**
