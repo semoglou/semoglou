@@ -3,8 +3,9 @@
 I’m a **PhD candidate in Machine Learning** working on **Unsupervised Learning, Clustering, Pattern Recognition, and Natural Language Processing**.
 
 My research focuses on **clustering methods, validation, and confidence estimation**, with applications to structured and textual data.
-
+  
 Affiliated with the Archimedes Research Unit, Athena Research Center.
+
 ---
 
 ## 🔬 Research
