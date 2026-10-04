@@ -19,7 +19,7 @@ My research focuses on **clustering methods, validation, and confidence estimati
 
 ---
 
-## 💻 Research software
+## 💻 Packages
 
 [**sil-score**](https://github.com/semoglou/sil_score) · [**intclustval**](https://github.com/semoglou/intclustval) · [**extclustval**](https://github.com/semoglou/extclustval) · [**confinterval**](https://github.com/semoglou/confinterval)
 
