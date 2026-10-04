@@ -8,40 +8,23 @@ My research focuses on **clustering methods, validation, and confidence estimati
 
 ## 🔬 Research & publications
 
-- ### CAKE: Confidence in Assignments via K-partition Ensembles
-
-  [![Machine Learning with Applications](https://img.shields.io/badge/Machine%20Learning%20with%20Applications-2026-1f6feb?style=flat-square)](https://doi.org/10.1016/j.mlwa.2026.100915)
-  [![PyPI](https://img.shields.io/pypi/v/cake-ensemble?style=flat-square&label=PyPI)](https://pypi.org/project/cake-ensemble/)
-
+- **CAKE: Confidence in Assignments via K-partition Ensembles** [![Machine Learning with Applications](https://img.shields.io/badge/Machine%20Learning%20with%20Applications-2026-1f6feb?style=flat-square)](https://doi.org/10.1016/j.mlwa.2026.100915)  
   [**Paper**](https://doi.org/10.1016/j.mlwa.2026.100915) · [**arXiv**](https://arxiv.org/abs/2602.18435) · [**Code**](https://github.com/semoglou/cake) · [**PyPI**](https://pypi.org/project/cake-ensemble/)
 
-- ### Composite Silhouette
-
-  [![ECML PKDD](https://img.shields.io/badge/ECML%20PKDD-2026-1f6feb?style=flat-square)](https://doi.org/10.1007/978-3-032-37654-1_38)
-  [![PyPI](https://img.shields.io/pypi/v/compsil?style=flat-square&label=PyPI)](https://pypi.org/project/compsil/)
-
+- **Composite Silhouette** [![ECML PKDD](https://img.shields.io/badge/ECML%20PKDD-2026-1f6feb?style=flat-square)](https://doi.org/10.1007/978-3-032-37654-1_38)  
   [**Paper**](https://doi.org/10.1007/978-3-032-37654-1_38) · [**arXiv**](https://arxiv.org/abs/2604.13816) · [**Code**](https://github.com/semoglou/compsil) · [**PyPI**](https://pypi.org/project/compsil/)
 
-- ### K-Sil: Silhouette-Driven Instance-Weighted *k*-means
-
-  [![arXiv](https://img.shields.io/badge/arXiv-2506.12878-1f6feb?style=flat-square)](https://arxiv.org/abs/2506.12878)
-  [![PyPI](https://img.shields.io/pypi/v/k-silhouette?style=flat-square&label=PyPI)](https://pypi.org/project/k-silhouette/)
-
+- **K-Sil: Silhouette-Driven Instance-Weighted *k*-means** [![arXiv](https://img.shields.io/badge/arXiv-2506.12878-1f6feb?style=flat-square)](https://arxiv.org/abs/2506.12878)  
   [**Preprint**](https://arxiv.org/abs/2506.12878) · [**Code**](https://github.com/semoglou/ksil_clustering) · [**PyPI**](https://pypi.org/project/k-silhouette/)
 
 ---
 
 ## 💻 Research software
 
-- [**sil-score**](https://github.com/semoglou/sil_score) · Exact and approximate Silhouette scoring with different aggregation strategies
-- [**intclustval**](https://github.com/semoglou/intclustval) · Internal clustering validation metrics
-- [**extclustval**](https://github.com/semoglou/extclustval) · External clustering validation metrics
-- [**confinterval**](https://github.com/semoglou/confinterval) · Confidence intervals for common statistical estimators
+[**sil-score**](https://github.com/semoglou/sil_score) · [**intclustval**](https://github.com/semoglou/intclustval) · [**extclustval**](https://github.com/semoglou/extclustval) · [**confinterval**](https://github.com/semoglou/confinterval)
 
 ---
 
 ## 🌐 More
 
-For publications, research, software, NLP work, and other projects:
-
-**[semoglou.github.io](https://semoglou.github.io)**
+[**semoglou.github.io**](https://semoglou.github.io)
