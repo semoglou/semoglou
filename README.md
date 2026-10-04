@@ -8,13 +8,13 @@ My research focuses on **clustering methods, validation, and confidence estimati
 
 ## 🔬 Research & publications
 
-- **CAKE: Confidence in Assignments via K-partition Ensembles** [![Machine Learning with Applications](https://img.shields.io/badge/Machine%20Learning%20with%20Applications-2026-1f6feb?style=flat-square)](https://doi.org/10.1016/j.mlwa.2026.100915)  
+- **CAKE: Confidence in Assignments via K-partition Ensembles**   
   [**Paper**](https://doi.org/10.1016/j.mlwa.2026.100915) · [**arXiv**](https://arxiv.org/abs/2602.18435) · [**Code**](https://github.com/semoglou/cake) · [**PyPI**](https://pypi.org/project/cake-ensemble/)
 
-- **Composite Silhouette** [![ECML PKDD](https://img.shields.io/badge/ECML%20PKDD-2026-1f6feb?style=flat-square)](https://doi.org/10.1007/978-3-032-37654-1_38)  
+- **Composite Silhouette**   
   [**Paper**](https://doi.org/10.1007/978-3-032-37654-1_38) · [**arXiv**](https://arxiv.org/abs/2604.13816) · [**Code**](https://github.com/semoglou/compsil) · [**PyPI**](https://pypi.org/project/compsil/)
 
-- **K-Sil: Silhouette-Driven Instance-Weighted *k*-means** [![arXiv](https://img.shields.io/badge/arXiv-2506.12878-1f6feb?style=flat-square)](https://arxiv.org/abs/2506.12878)  
+- **K-Sil: Silhouette-Driven Instance-Weighted *k*-means**   
   [**Preprint**](https://arxiv.org/abs/2506.12878) · [**Code**](https://github.com/semoglou/ksil_clustering) · [**PyPI**](https://pypi.org/project/k-silhouette/)
 
 ---
