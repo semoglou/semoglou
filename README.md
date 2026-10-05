@@ -1,4 +1,4 @@
-## Hi, I’m Aggelos 👋
+## Hi, I’m Aggelos 👋🏻
 
 I’m a **PhD candidate in Machine Learning** working on **Unsupervised Learning, Clustering, Pattern Recognition, and Natural Language Processing**.
 
