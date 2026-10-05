@@ -6,7 +6,6 @@ My research focuses on **clustering methods, validation, and confidence estimati
   
 Affiliated with the Archimedes Research Unit, Athena Research Center.
 
----
 
 ## 🔬 Research
 
@@ -19,13 +18,11 @@ Affiliated with the Archimedes Research Unit, Athena Research Center.
 - **K-Sil: Silhouette-Driven Instance-Weighted *k*-means**   
   [**Preprint**](https://arxiv.org/abs/2506.12878) · [**Code**](https://github.com/semoglou/ksil_clustering) · [**PyPI**](https://pypi.org/project/k-silhouette/)
 
----
 
 ## 💻 Packages
 
 [**sil-score**](https://github.com/semoglou/sil_score) · [**intclustval**](https://github.com/semoglou/intclustval) · [**extclustval**](https://github.com/semoglou/extclustval) · [**confinterval**](https://github.com/semoglou/confinterval)
 
----
 
 ## 🌐 More
 
