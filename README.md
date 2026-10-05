@@ -16,8 +16,8 @@ Affiliated with the **Archimedes Research Unit, Athena Research Center**.
   An internal validation criterion for cluster-count selection that combines micro- and macro-averaged Silhouette information across repeated subsamples. Presented at **ECML PKDD 2026** and published in the **Springer Research Track proceedings**.  
   [**Paper**](https://doi.org/10.1007/978-3-032-37654-1_38) · [**arXiv**](https://arxiv.org/abs/2604.13816) · [**Code**](https://github.com/semoglou/compsil) · [**PyPI**](https://pypi.org/project/compsil/)
 
-- **K-Sil: Silhouette-Driven Instance-Weighted *k*-means**  
-  A silhouette-driven extension of *k*-means that weights instances during centroid updates according to their clustering quality.  
+- **K-Sil: Silhouette-Driven Instance-Weighted $k$-means**  
+  A silhouette-driven extension of $k$-means that weights instances during centroid updates according to their clustering quality.  
   [**Preprint**](https://arxiv.org/abs/2506.12878) · [**Code**](https://github.com/semoglou/ksil_clustering) · [**PyPI**](https://pypi.org/project/k-silhouette/)
 
 ## 💻 Packages
