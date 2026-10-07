@@ -9,7 +9,7 @@ Affiliated with the **Archimedes Research Unit, Athena Research Center**.
 ## 🔬 Research
 
 - **CAKE: Confidence in Assignments via K-partition Ensembles**  
-  <sub>A framework for estimating confidence in individual clustering assignments by aggregating evidence across multiple partitions. Published in **Machine Learning with Applications (2026)**.</sub>  
+  A framework for estimating confidence in individual clustering assignments by aggregating evidence across multiple partitions. Published in **Machine Learning with Applications (2026)**.  
   [**Paper**](https://doi.org/10.1016/j.mlwa.2026.100915) · [**arXiv**](https://arxiv.org/abs/2602.18435) · [**Code**](https://github.com/semoglou/cake) · [**PyPI**](https://pypi.org/project/cake-ensemble/)
 
 - **Composite Silhouette: A Subsampling-based Aggregation Strategy**  
