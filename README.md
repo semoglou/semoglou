@@ -30,6 +30,4 @@ Python packages for **clustering, validation, confidence estimation, and statist
 
 ## 🌐 More
 
-For publications, research, software, NLP work, and other projects:
-
-**[semoglou.github.io](https://semoglou.github.io)**
+For publications, research, software, NLP work, and other projects: **[semoglou.github.io](https://semoglou.github.io)**
