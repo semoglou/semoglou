@@ -24,7 +24,7 @@ My research focuses on **clustering methods, validation, and confidence estimati
 
 ## 💻 Packages
 
-Python packages for **clustering, validation, confidence estimation, and statistical analysis** are available on my [**PyPI profile**](https://pypi.org/user/a.semoglou/), including `cake-ensemble`, `compsil`, `k-silhouette`, `sil-score`, `intclustval`, `extclustval`, and `confinterval`.
+Python packages for **clustering, validation, confidence estimation, and statistical analysis** are available on my [**PyPI profile**](https://pypi.org/user/a.semoglou/), including [`cake-ensemble`](https://pypi.org/project/cake-ensemble/), `compsil`, `k-silhouette`, `sil-score`, `intclustval`, `extclustval`, and `confinterval`.
 
 ## 🌐 More
 
