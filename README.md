@@ -7,7 +7,7 @@ My research focuses on **clustering methods, validation, and confidence estimati
 <p>
   Affiliated with the <b>Archimedes Research Unit, Athena Research Center</b>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.athenarc.gr/en"><img src="https://raw.githubusercontent.com/semoglou/cake/main/logos/AthenaRC_Archimedes_Unit_Logo_EN_Standard_Colour.png" width="125" alt="Athena Research Center and Archimedes Research Unit"></a>
+  <a href="https://www.athenarc.gr/en"><img src="https://raw.githubusercontent.com/semoglou/cake/main/logos/AthenaRC_Archimedes_Unit_Logo_EN_Standard_Colour.png" width="100" alt="Athena Research Center and Archimedes Research Unit"></a>
 </p>
 
 ## 🔬 Research
