@@ -4,7 +4,12 @@ I’m a **PhD candidate in Machine Learning** working on **Unsupervised Learning
 
 My research focuses on **clustering methods, validation, and confidence estimation**, with applications to structured and textual data.
 
-Affiliated with the **Archimedes Research Unit, Athena Research Center**.
+<p>
+  Affiliated with the <b>Archimedes Research Unit, Athena Research Center</b>.
+  <a href="https://www.athenarc.gr/en">
+    <img src="https://raw.githubusercontent.com/semoglou/cake/main/logos/AthenaRC_Archimedes_Unit_Logo_EN_Standard_Colour.png" width="90" alt="Athena Research Center and Archimedes Research Unit">
+  </a>
+</p>
 
 ## 🔬 Research
 
