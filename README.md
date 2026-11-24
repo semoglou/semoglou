@@ -24,8 +24,8 @@ My research focuses on **clustering methods, validation, and confidence estimati
   Silhouette-driven instance weighting for more robust *k*-means clustering.  
   [**arXiv**](https://arxiv.org/abs/2506.12878) · [**Code**](https://github.com/semoglou/ksil_clustering)
 
-- **CART: Clustering-based Analysis of Recurring Narratives for Taxonomy Construction**.
-  Unsupervised learning and LLM-assisted narrative extraction for data-driven taxonomy construction.
+- **CART: Clustering-based Analysis of Recurring Narratives for Taxonomy Construction**.  
+  Unsupervised learning and LLM-assisted narrative extraction for data-driven taxonomy construction.  
   [**arXiv**](https://arxiv.org/abs/2611.30993) · [**Code**](https://github.com/semoglou/cart)
 
 ## 💻 Packages
