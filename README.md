@@ -12,12 +12,12 @@ My research focuses on **clustering methods, validation, and confidence estimati
 
 - **CAKE: Confidence in Assignments via K-partition Ensembles**  
   Confidence estimation for individual clustering assignments using ensembles of partitions.  
-  Published in **Machine Learning with Applications (2026)**.  
+  *Published in* **Machine Learning with Applications (2026)**.  
   [**Paper**](https://doi.org/10.1016/j.mlwa.2026.100915) · [**arXiv**](https://arxiv.org/abs/2602.18435) · [**Code**](https://github.com/semoglou/cake) 
 
 - **Composite Silhouette: A Subsampling-based Aggregation Strategy**  
   Subsampling-based internal validation for selecting the number of clusters.  
-  Presented at **ECML PKDD 2026** and published in the **Springer Research Track proceedings**.  
+  *Presented at* **ECML PKDD 2026** *and published in the* **Springer Research Track proceedings**.  
   [**Paper**](https://doi.org/10.1007/978-3-032-37654-1_38) · [**arXiv**](https://arxiv.org/abs/2604.13816) · [**Code**](https://github.com/semoglou/compsil) 
 
 - **K-Sil: Silhouette-Driven Instance-Weighted *k*-means**  
