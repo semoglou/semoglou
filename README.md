@@ -8,7 +8,7 @@ My research focuses on **clustering methods, validation, and confidence estimati
   <a href="https://www.athenarc.gr/en"><img src="https://raw.githubusercontent.com/semoglou/cake/main/logos/AthenaRC_Archimedes_Unit_Logo_EN_Standard_Colour.png" width="100" alt="Athena Research Center and Archimedes Research Unit"></a>
 </p>
 
-## 🔬 Research Projects
+## 💻 Research Projects
 
 - **CAKE: Confidence in Assignments via K-partition Ensembles**  
   Confidence estimation for individual clustering assignments using ensembles of partitions.  
@@ -28,7 +28,7 @@ My research focuses on **clustering methods, validation, and confidence estimati
   Unsupervised learning and LLM-assisted narrative extraction for data-driven taxonomy construction.  
   [**arXiv**](https://arxiv.org/abs/2611.30993) · [**Code**](https://github.com/semoglou/cart)
 
-## 💻 Packages
+## ⚙️ Packages
 
 Python packages for **clustering, validation, confidence estimation, and statistical analysis** are available on my [**PyPI profile**](https://pypi.org/user/a.semoglou/), including [`cake-ensemble`](https://pypi.org/project/cake-ensemble/), [`compsil`](https://pypi.org/project/compsil/), [`sil-score`](https://pypi.org/project/sil-score/), [`intclustval`](https://pypi.org/project/intclustval/), [`extclustval`](https://pypi.org/project/extclustval/), and [`confinterval`](https://pypi.org/project/confinterval/).
 
