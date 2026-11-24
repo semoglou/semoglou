@@ -8,10 +8,10 @@ My research focuses on **clustering methods, validation, and confidence estimati
   <a href="https://www.athenarc.gr/en"><img src="https://raw.githubusercontent.com/semoglou/cake/main/logos/AthenaRC_Archimedes_Unit_Logo_EN_Standard_Colour.png" width="100" alt="Athena Research Center and Archimedes Research Unit"></a>
 </p>
 
-## 🔬 Research
+## 🔬 Research Projects
 
 - **CAKE: Confidence in Assignments via K-partition Ensembles**  
-  Confidence estimation for individual clustering assignments from clustering ensembles.  
+  Confidence estimation for individual clustering assignments using ensembles of partitions.  
    Published in **Machine Learning with Applications (2026)**.  
   [**Paper**](https://doi.org/10.1016/j.mlwa.2026.100915) · [**arXiv**](https://arxiv.org/abs/2602.18435) · [**Code**](https://github.com/semoglou/cake) 
 
